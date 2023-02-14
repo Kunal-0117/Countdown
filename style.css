@@ -88,8 +88,8 @@ li span {
     color: #fff6a9;
     font-family: "Sacramento", cursive;
     text-align: center;
-    animation: blink 12s infinite;
-    -webkit-animation: blink 12s infinite;
+/*     animation: blink 12s infinite; */
+/*     -webkit-animation: blink 12s infinite; */
 }
 
 @-webkit-keyframes blink {
