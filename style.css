@@ -84,7 +84,6 @@ li span {
 .text {
     text-shadow: 0 0 5px #ffa500, 0 0 5px #ffa500, 0 0 5px #ff0000, -2px -2px 5px #ff8d00, 2px 2px 5px #ff0000;
     color: #fff6a9;
-    font-family: "Sacramento", cursive;
     text-align: center;
     animation: blink 12s infinite;
 }
