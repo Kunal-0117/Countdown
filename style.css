@@ -9,10 +9,7 @@
     padding: 0;
 }
 body {
-    height: 100%;
-    margin: 0;
     user-select: none;
-    position: relative;
 
     background: url("./img/bg1.jfif") no-repeat center center fixed;
     background-color: rgba(0, 0, 0, 0.573);
