@@ -10,6 +10,7 @@
     padding: 0;
 }
 body {
+    min-height: 100vh;
     user-select: none;
     background: url("./img/bg1.jfif") no-repeat center center fixed;
     background-color: rgba(0, 0, 0, 0.573);
