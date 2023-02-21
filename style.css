@@ -47,6 +47,7 @@ body {
     display: flex;
     flex-direction: column;
     font-weight: 900;
+    padding-bottom: 2rem;
 }
 
 .image {
