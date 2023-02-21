@@ -38,6 +38,9 @@ body {
 
 .wrapper {
     min-height: 100vh;
+    min-height: -moz-available;
+    min-height: -webkit-fill-available;
+    min-height: fill-available;
     height: 100vh;
     max-height: 100vh;
     justify-content: space-between;
